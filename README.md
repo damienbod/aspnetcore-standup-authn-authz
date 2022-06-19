@@ -46,17 +46,31 @@ https://github.com/damienbod/ApiJwtWithTwoSts
 
 ## Azure AD, Azure AD B2C clients, Continuous Access
 
+Azure samples: ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
+
 https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/
+
+Azure AD flows using ASP.NET Core and Microsoft.Identity for user, application aunthentication, authorization.
 
 https://github.com/damienbod/AzureADAuthRazorUiServiceApiCertificate
 
+Examples of implementing UIs, APIs using Azure AD as the token server with Angular, ASP.NET Core clients
+
 https://github.com/damienbod/AzureAD-Auth-MyUI-with-MyAPI
+
+Azure AD Continuous Access in an ASP.NET Core Razor Page app using a Web API, Azure AD Continuous Access (CA) step up with ASP.NET Core Blazor using a Web API, Azure AD Continuous Access (CA) standalone with Blazor ASP.NET Core, Force MFA in Blazor using Azure AD and Continuous Access
 
 https://github.com/damienbod/AspNetCoreAzureADCAE
 
+Securing ASP.NET Core Razor, Web APIs with Azure B2C external and Azure AD internal identities. Using Azure security groups in ASP.NET Core with an Azure B2C Identity Provider. Create Azure B2C users with Microsoft Graph and ASP.NET Core. Transforming identity claims in ASP.NET Core and Cache. Onboarding new users in an ASP.NET Core application using Azure B2C. Using multiple Azure B2C user flows from ASP.NET Core
+
 https://github.com/damienbod/azureb2c-fed-azuread
 
+PWA with Blazor Backend for frontend (BFF) and Azure B2C
+
 https://github.com/damienbod/PwaBlazorBffAzureB2C
+
+Add extra claims to an Azure B2C user flow using API connectors and ASP.NET Core. Implement certificate authentication in ASP.NET Core for an Azure B2C API connector
 
 https://github.com/damienbod/AspNetCoreB2cExtraClaims
 
