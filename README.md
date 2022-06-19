@@ -92,6 +92,8 @@ https://docs.microsoft.com/en-us/aspnet/core/grpc/authn-and-authz
 
 ## Microsoft Graph
 
+https://docs.microsoft.com/en-us/graph/overview?view=graph-rest-1.0
+
 https://github.com/damienbod/AspNetCoreBlazorMicrosoftGraph
 
 https://github.com/damienbod/TeamsAdminUI
