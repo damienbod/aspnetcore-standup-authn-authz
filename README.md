@@ -98,6 +98,10 @@ https://github.com/damienbod/AspNetCoreBlazorMicrosoftGraph
 
 https://github.com/damienbod/TeamsAdminUI
 
+## YARP reverse proxy
+
+https://github.com/microsoft/reverse-proxy
+
 ## Data Encryption, Certificates, Identity
 
 https://github.com/damienbod/SendingEncryptedData
@@ -125,6 +129,10 @@ https://www.keycloak.org/
 ## DuendeSoftware
 
 https://github.com/DuendeSoftware
+
+## Auth0
+
+https://auth0.com
 
 ## Blazor BFF
 
