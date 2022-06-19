@@ -32,6 +32,8 @@ https://github.com/damienbod/Auth0AngularAspNetCoreApi
 
 https://github.com/damienbod/SeparatingApisPerSecurityLevel
 
+https://github.com/damienbod/ApiJwtWithTwoSts
+
 ## Azure AD, Azure AD B2C clients, Continuous Access
 
 https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/
@@ -48,22 +50,27 @@ https://github.com/damienbod/PwaBlazorBffAzureB2C
 
 https://github.com/damienbod/AspNetCoreB2cExtraClaims
 
+# Links:
+
+## Docs
+
+https://docs.microsoft.com/en-us/aspnet/core/security/
+
+https://openid.net/connect/
 
 ## Microsoft Graph
 
 https://github.com/damienbod/AspNetCoreBlazorMicrosoftGraph
 
-## Data Encryption, Certificates
+https://github.com/damienbod/TeamsAdminUI
+
+## Data Encryption, Certificates, Identity
 
 https://github.com/damienbod/SendingEncryptedData
 
 https://github.com/damienbod/AspNetCoreCertificates
 
-# Links:
 
-https://docs.microsoft.com/en-us/aspnet/core/security/
-
-https://openid.net/connect/
 
 ## FIDO2
 
@@ -93,7 +100,7 @@ https://github.com/damienbod/Blazor.BFF.AzureB2C.Template
 
 https://github.com/DuendeSoftware/BFF
 
-## Session
+## Session protection
 
 https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders
 
