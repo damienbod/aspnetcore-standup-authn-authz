@@ -28,13 +28,19 @@ OpenIddict with Razor Pages, Blazor WASM BFF and Angular OpenID Connect Code Flo
 
 https://github.com/damienbod/AspNetCoreOpeniddict
 
-Differrent ASP.NET Core applications using OpenID Connect Hybrid flow Code Flow, Code Flow with PKCE, JWT APIs, Device Code flow, MFA examples
+Differrent ASP.NET Core applications using OpenID Connect Hybrid flow Code Flow, Code Flow with PKCE, JWT APIs, Device Code flow. Force ASP.NET Core OpenID Connect client to require MFA. Send MFA signin requirement to OpenID Connect server using ASP.NET Core Identity and IdentityServer4. Requiring MFA for Admin Pages in an ASP.NET Core Identity application. Require user password verification with ASP.NET Core Identity to access Razor Page
 
 https://github.com/damienbod/AspNetCoreHybridFlowWithApi
 
+Auth0 with Angular and an ASP.NET Core API
+
 https://github.com/damienbod/Auth0AngularAspNetCoreApi
 
+Securing Blazor Web assembly using Cookies and Auth0, securing multiple Auth0 APIs in ASP.NET Core using OAuth Bearer tokens, securing OAuth Bearer tokens from multiple Identity Providers in an ASP.NET Core API
+
 https://github.com/damienbod/SeparatingApisPerSecurityLevel
+
+Securing an ASP.NET Core API which uses multiple access tokens, securing a Web API using multiple token servers
 
 https://github.com/damienbod/ApiJwtWithTwoSts
 
