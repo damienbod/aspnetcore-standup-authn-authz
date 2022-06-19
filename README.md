@@ -126,6 +126,8 @@ https://github.com/openiddict/openiddict-core
 
 https://www.keycloak.org/
 
+https://github.com/tuxiem/AspNetCore-keycloak
+
 ## DuendeSoftware
 
 https://github.com/DuendeSoftware
