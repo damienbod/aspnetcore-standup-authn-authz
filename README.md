@@ -20,7 +20,7 @@
 - Azure Managed Identities
 - certificate authentication
 
-# Examples Identity provider clients:
+# Examples identity provider clients:
 
 ## OIDC clients
 
@@ -58,6 +58,8 @@ https://docs.microsoft.com/en-us/aspnet/core/security/
 
 https://openid.net/connect/
 
+https://oauth.net/2/
+
 ## Microsoft Graph
 
 https://github.com/damienbod/AspNetCoreBlazorMicrosoftGraph
@@ -69,8 +71,6 @@ https://github.com/damienbod/TeamsAdminUI
 https://github.com/damienbod/SendingEncryptedData
 
 https://github.com/damienbod/AspNetCoreCertificates
-
-
 
 ## FIDO2
 
@@ -89,6 +89,10 @@ https://github.com/openiddict/openiddict-core
 ## Keycloak
 
 https://www.keycloak.org/
+
+## DuendeSoftware
+
+https://github.com/DuendeSoftware
 
 ## Blazor BFF
 
