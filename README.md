@@ -76,6 +76,8 @@ https://github.com/damienbod/AspNetCoreB2cExtraClaims
 
 # Links:
 
+Different links for security which can be using with ASP.NET Core.
+
 ## Docs
 
 https://docs.microsoft.com/en-us/aspnet/core/security/
@@ -143,3 +145,7 @@ https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/v
 https://github.com/Azure-Samples/active-directory-verifiable-credentials-dotnet
 
 https://github.com/swiss-ssi-group
+
+## Azure Functions security
+
+https://github.com/damienbod/AzureFunctionsSecurity
