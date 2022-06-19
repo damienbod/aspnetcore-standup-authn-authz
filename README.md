@@ -2,7 +2,7 @@
 # Overview of different App security topics 
 
 - Application authentication OIDC, OAuth2, logout, flows
-- Application authorization arch. claims, roles, groups 
+- Application authorization claims, roles, groups, policies
 - Self sovereign identity, verifiable credentials, wallets, distributed authentication
 - FIDO2, MFA, 2FA, Authenticators, not SMS 
 - DevOps security
@@ -24,7 +24,11 @@
 
 ## OIDC clients
 
+OpenIddict with Razor Pages, Blazor WASM BFF and Angular OpenID Connect Code Flow with PKCE clients and ASP.NET Core APIs
+
 https://github.com/damienbod/AspNetCoreOpeniddict
+
+Differrent ASP.NET Core applications using OpenID Connect Hybrid flow Code Flow, Code Flow with PKCE, JWT APIs, Device Code flow, MFA examples
 
 https://github.com/damienbod/AspNetCoreHybridFlowWithApi
 
@@ -59,6 +63,10 @@ https://docs.microsoft.com/en-us/aspnet/core/security/
 https://openid.net/connect/
 
 https://oauth.net/2/
+
+## GRPC
+
+https://docs.microsoft.com/en-us/aspnet/core/grpc/authn-and-authz
 
 ## Microsoft Graph
 
