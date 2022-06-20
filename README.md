@@ -11,12 +11,12 @@
 
 # Authentication Flows
 
-- OpenID Connect Code flow + PKCE with client secret ![confidential client](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Code%20flow.png)
-- OpenID Connect Hybrid flow ![Hybrid flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Hybrid%20flow.png)
-- OpenID Connect Code flow + PKCE with no secret
-- OAuth Device Flow ![device flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/device%20flow.png)
+- [OpenID Connect Code flow + PKCE with client secret confidential client](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Code%20flow.md)
+- [OpenID Connect Hybrid flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Hybrid%20flow.md)
+- [OpenID Connect Code flow + PKCE with no secret](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/PKCE.md)
+- [OAuth Device Flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/device%20flow.md)
 - [On Behalf Of (OBO) Flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#protocol-diagram)
-- OAuth2 Resource Owner Credentials Flow
+- [OAuth2 Resource Owner Credentials Flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/Resource%20Owner%20Credentials%20Flow.md)
 - Azure Managed Identities
 - certificate authentication
 
