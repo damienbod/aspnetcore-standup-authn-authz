@@ -20,10 +20,14 @@
 - Azure Managed Identities
 - certificate authentication
 
+# SPAs
+
+[flows](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/spa%20flows.md)
+
 # Protecting APIs
 
 - JWT Bearer Tokens
-- Introspection
+- [Introspection](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/api_introspection.md)
 - Cookies
 - user access tokens versus application access tokens 
 
