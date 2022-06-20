@@ -87,7 +87,7 @@ https://github.com/damienbod/AspNetCoreB2cExtraClaims
 
 # Links:
 
-Different links for security which can be using with ASP.NET Core.
+Different links for security which can be used with ASP.NET Core.
 
 ## Docs
 
