@@ -11,10 +11,10 @@
 
 # Authentication Flows
 
-- OpenID Connect Code flow + PKCE with client secret [confidential client](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Code%20flow.png)
-- OpenID Connect Hybrid flow
+- OpenID Connect Code flow + PKCE with client secret ![confidential client](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Code%20flow.png)
+- OpenID Connect Hybrid flow ![Hybrid flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Hybrid%20flow.png)
 - OpenID Connect Code flow + PKCE with no secret
-- OAuth Device Flow
+- OAuth Device Flow ![device flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/device%20flow.png)
 - [On Behalf Of (OBO) Flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#protocol-diagram)
 - OAuth2 Resource Owner Credentials Flow
 - Azure Managed Identities
@@ -25,7 +25,6 @@
 - JWT Bearer Tokens
 - Introspection
 - Cookies
-
 - user access tokens versus application access tokens 
 
 # Examples identity provider clients:
