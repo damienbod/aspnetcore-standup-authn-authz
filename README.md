@@ -15,10 +15,18 @@
 - OpenID Connect Hybrid flow
 - OpenID Connect Code flow + PKCE with no secret
 - OAuth Device Flow
-- On Behalf Of (OBO) Flow
+- [On Behalf Of (OBO) Flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#protocol-diagram)
 - OAuth2 Resource Owner Credentials Flow
 - Azure Managed Identities
 - certificate authentication
+
+# Protecting APIs
+
+- JWT Bearer Tokens
+- Introspection
+- Cookies
+
+- user access tokens versus application access tokens 
 
 # Examples identity provider clients:
 
