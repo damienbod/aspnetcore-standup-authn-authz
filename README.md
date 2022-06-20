@@ -17,7 +17,7 @@
 - [OAuth Device Flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/device%20flow.md)
 - [On Behalf Of (OBO) Flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#protocol-diagram)
 - [OAuth2 Resource Owner Credentials Flow](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/Resource%20Owner%20Credentials%20Flow.md)
-- Azure Managed Identities
+- [Azure Managed Identities](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/managed-identities.md)
 - certificate authentication
 
 # SPAs

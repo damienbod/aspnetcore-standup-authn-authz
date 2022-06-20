@@ -1,4 +1,4 @@
-![managed-identities](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/device%20flow.png)
+![managed-identities](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/managed-identities.png)
 
 ## Links:
 
