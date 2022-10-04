@@ -9,6 +9,8 @@
 - OWASP themes, session hardening
 - Identity management in applications, Key management, certificates
 
+Part 2 see: https://github.com/damienbod/aspnetcore-standup-securing-apis
+
 # Authentication Flows
 
 - [OpenID Connect Code flow + PKCE with client secret confidential client](https://github.com/damienbod/aspnetcore-standup-authn-authz/blob/main/images/OIDC%20Code%20flow.md)
