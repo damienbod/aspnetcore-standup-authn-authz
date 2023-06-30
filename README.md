@@ -149,7 +149,7 @@ https://github.com/DuendeSoftware
 
 https://auth0.com
 
-## Blazor BFF
+## Backend for frontend (BFF)
 
 https://github.com/damienbod/Blazor.BFF.OpenIDConnect.Template
 
