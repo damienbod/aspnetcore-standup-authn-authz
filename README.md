@@ -189,11 +189,11 @@ https://github.com/damienbod/AzureFunctionsSecurity
 
 ## Standards RFCs, future drafts
 
-https://datatracker.ietf.org/doc/draft-ietf-oauth-browser-based-apps/
+[OAuth 2.0 for Browser-Based Apps draft](https://datatracker.ietf.org/doc/draft-ietf-oauth-browser-based-apps/)
   
-https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics
+[OAuth 2.0 Security Best Current Practice draft](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
 
-https://datatracker.ietf.org/doc/draft-ietf-oauth-cross-device-security/
+[Cross-Device Flows: Security Best Current Practice draft](https://datatracker.ietf.org/doc/draft-ietf-oauth-cross-device-security/)
 
 [OAuth 2.0 Demonstrating Proof of Possession (DPoP) RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449)
 
