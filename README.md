@@ -157,6 +157,18 @@ https://github.com/damienbod/Blazor.BFF.AzureB2C.Template
 
 https://github.com/DuendeSoftware/BFF
 
+https://github.com/damienbod/bff-aspnetcore-angular
+
+https://github.com/damienbod/bff-auth0-aspnetcore-angular
+
+https://github.com/damienbod/bff-openiddict-aspnetcore-angular
+
+https://github.com/damienbod/bff-azureadb2c-aspnetcore-angular
+
+https://github.com/isolutionsag/aspnet-react-bff-proxy-example
+
+https://github.com/damienbod/bff-aspnetcore-vuejs
+
 ## Session protection
 
 https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders
