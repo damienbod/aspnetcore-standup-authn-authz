@@ -187,7 +187,7 @@ https://github.com/swiss-ssi-group
 
 https://github.com/damienbod/AzureFunctionsSecurity
 
-## Standards RFCs, future drafts
+## OAUTH RFCs and draft standards
 
 [OAuth 2.0 for Browser-Based Apps draft](https://datatracker.ietf.org/doc/draft-ietf-oauth-browser-based-apps/)
   
