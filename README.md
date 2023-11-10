@@ -196,3 +196,9 @@ https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics
 https://datatracker.ietf.org/doc/draft-ietf-oauth-cross-device-security/
 
 [OAuth 2.0 Demonstrating Proof of Possession (DPoP) RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449)
+
+[OAuth 2.0 Step Up Authentication Challenge Protocol RFC 9470](https://datatracker.ietf.org/doc/rfc9470/)
+
+[OAuth 2.0 Token Exchange RFC 8693](https://datatracker.ietf.org/doc/html/rfc8693)
+
+[OAuth 2.0 Pushed Authorization Requests RFC 9126](https://datatracker.ietf.org/doc/html/rfc9126)
