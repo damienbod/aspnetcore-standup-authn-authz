@@ -186,3 +186,13 @@ https://github.com/swiss-ssi-group
 ## Azure Functions security
 
 https://github.com/damienbod/AzureFunctionsSecurity
+
+## Standards RFCs, future drafts
+
+https://datatracker.ietf.org/doc/draft-ietf-oauth-browser-based-apps/
+  
+https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics
+
+https://datatracker.ietf.org/doc/draft-ietf-oauth-cross-device-security/
+
+[OAuth 2.0 Demonstrating Proof of Possession (DPoP) RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449)
