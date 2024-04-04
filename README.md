@@ -33,6 +33,12 @@ Part 2 see: https://github.com/damienbod/aspnetcore-standup-securing-apis
 - Cookies
 - User access tokens versus application access tokens 
 
+# Mulitple IDPs with UI client
+
+Authentication with multiple identity providers in ASP.NET Core
+
+https://github.com/damienbod/MulitipleClientClaimsMapping
+
 # Examples identity provider clients:
 
 ## OIDC clients
@@ -56,10 +62,6 @@ https://github.com/damienbod/SeparatingApisPerSecurityLevel
 Securing an ASP.NET Core API which uses multiple access tokens, securing a Web API using multiple token servers
 
 https://github.com/damienbod/ApiJwtWithTwoSts
-
-## Mulitple IDPs with UI client
-
-https://github.com/damienbod/MulitipleClientClaimsMapping
 
 ## Azure AD, Azure AD B2C clients, Continuous Access
 
