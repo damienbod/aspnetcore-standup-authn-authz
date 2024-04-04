@@ -57,6 +57,10 @@ Securing an ASP.NET Core API which uses multiple access tokens, securing a Web A
 
 https://github.com/damienbod/ApiJwtWithTwoSts
 
+## Mulitple IDPs with UI client
+
+https://github.com/damienbod/MulitipleClientClaimsMapping
+
 ## Azure AD, Azure AD B2C clients, Continuous Access
 
 Azure samples: ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
